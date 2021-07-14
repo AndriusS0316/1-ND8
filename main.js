@@ -1,4 +1,4 @@
-// ketvirta uzduotis
+// astunta uzduotis
 
 const h1ND4 = document.querySelector('h1');
 
